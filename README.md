@@ -4,19 +4,19 @@
 
 | 板块 | 覆盖内容 | 项目经验 |
 | --- | --- | --- |
-| [品牌、包装与印前](01-brand-packaging/PROJECTS.md) | 从视觉系统、结构刀模和标签数据到印刷校样。 | 4 |
-| [视频、配音与生成素材](02-video-media/PROJECTS.md) | 从分镜、剪辑到视听同步和成片验收。 | 5 |
-| [企业协同与业务自动化](03-enterprise-workflows/PROJECTS.md) | 从试点权限、工作流、报告和审核到推广。 | 5 |
-| [知识库、调研与办公交付](04-knowledge-research/PROJECTS.md) | 从资料索引、证据核验和文档制作到归档。 | 4 |
-| [开发、测试与基础设施](05-engineering-infrastructure/PROJECTS.md) | 从原型实现、测试验收到运行和恢复。 | 4 |
-| [零售、电商与内容运营](06-retail-marketing/PROJECTS.md) | 从商品图、门店沟通到选品、直播和运营复盘。 | 5 |
+| [品牌、包装与印前](01-brand-packaging/PROJECTS.md) | 从视觉系统、结构刀模和标签数据到印刷校样。 | 5 |
+| [视频、配音与生成素材](02-video-media/PROJECTS.md) | 从分镜、剪辑到视听同步和成片验收。 | 9 |
+| [企业协同与业务自动化](03-enterprise-workflows/PROJECTS.md) | 从试点权限、工作流、报告和审核到推广。 | 7 |
+| [知识库、调研与办公交付](04-knowledge-research/PROJECTS.md) | 从资料索引、证据核验和文档制作到归档。 | 7 |
+| [开发、测试与基础设施](05-engineering-infrastructure/PROJECTS.md) | 从原型实现、测试验收到运行和恢复。 | 9 |
+| [零售、电商与内容运营](06-retail-marketing/PROJECTS.md) | 从商品图、门店沟通到选品、直播和运营复盘。 | 6 |
 
 ## 使用入口
 
 - [完整能力目录](CAPABILITY-CATALOG.md)提供 226 条可见能力的合并索引，涵盖本机、插件、云端、执行环境与项目样例。
-- [本机与项目技能索引](SKILLS.md)收录 46 项。18 项提供脱敏后的 `SKILL.md`，其中条码和视频配字附脚本。
+- [本机与项目技能索引](SKILLS.md)收录 61 项。33 项提供 `SKILL.md`，其中条码、视频配字及第三方技能包附脚本与参考文档。
 - [平台能力索引](PLATFORM-SKILLS.md)收录 134 项可见内置与插件能力。第三方和平台原文由相应工具提供。
-- 27 项项目经验保留背景、主要做法和复用时的验收条件。演示、本地检查和实际业务验收按证据分别记录。
+- 43 项项目经验保留背景、主要做法和复用时的验收条件。演示、本地检查和实际业务验收按证据分别记录。
 
 ## 内容维护
 

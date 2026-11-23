@@ -1,17 +1,17 @@
 # Codex 技能目录
 
-226 条能力索引，按 6 个主题整理。依据本次可见的本机技能、插件目录、云端目录、执行环境目录和项目技能样例。相同的入口合并，平台名和人名使用功能描述。部分项目条目链接到可复用技能或案例。查找技能文件可从[技能索引](SKILLS.md)进入。
+241 条能力索引，按 6 个主题整理。依据本次可见的本机技能、插件目录、云端目录、执行环境目录和项目技能样例。相同的入口合并，平台名和人名使用功能描述。部分项目条目链接到可复用技能或案例。查找技能文件可从[技能索引](SKILLS.md)进入。
 
 | 分类 | 能力条目 |
 | --- | ---: |
-| 品牌、包装与印前 | 68 |
+| 品牌、包装与印前 | 69 |
 | 零售、电商与内容运营 | 2 |
-| 视频、配音与生成素材 | 23 |
-| 知识库、调研与办公交付 | 71 |
-| 开发、测试与基础设施 | 26 |
+| 视频、配音与生成素材 | 35 |
+| 知识库、调研与办公交付 | 72 |
+| 开发、测试与基础设施 | 27 |
 | 企业协同与业务自动化 | 36 |
 
-## 品牌、包装与印前（68 项）
+## 品牌、包装与印前（69 项）
 
 | 能力 | 来源类型 |
 | --- | --- |
@@ -83,6 +83,7 @@
 | 文章 · 插图规划 | 本机技能 |
 | 文章 · 封面设计 | 本机技能 |
 | [印刷标签 · 批量色号与文件验收](01-brand-packaging/skills/packaging-preflight/SKILL.md) | 项目资料 |
+| [图像编辑 · 分层 PSD 与批量处理](01-brand-packaging/skills/photocraft-cli/SKILL.md) | 本机技能 |
 
 ## 零售、电商与内容运营（2 项）
 
@@ -91,7 +92,7 @@
 | [商品编码 · EAN-13 图稿生成](01-brand-packaging/skills/ean13-barcode/SKILL.md) | 项目资料 |
 | 社媒 · 帖子设计 | 云端目录、执行环境目录 |
 
-## 视频、配音与生成素材（23 项）
+## 视频、配音与生成素材（35 项）
 
 | 能力 | 来源类型 |
 | --- | --- |
@@ -118,8 +119,20 @@
 | 网页视频 · 组件库 | 云端目录、执行环境目录 |
 | 知识视频 · 导演 | 本机技能 |
 | AI 影片制作 | 本机技能 |
+| [网页视频 · 自由形态合成](02-video-media/skills/general-video/SKILL.md) | 本机技能 |
+| [设计原型 · HTML 高保真与动画](02-video-media/skills/huashu-design/SKILL.md) | 本机技能 |
+| [网页视频 · 入口路由](02-video-media/skills/hyperframes/SKILL.md) | 本机技能 |
+| [网页视频 · 动画规则与转场](02-video-media/skills/hyperframes-animation/SKILL.md) | 本机技能 |
+| [音频 · 混音与效果链](02-video-media/skills/hyperframes-audio/SKILL.md) | 本机技能 |
+| [网页视频 · CLI 渲染循环](02-video-media/skills/hyperframes-cli/SKILL.md) | 本机技能 |
+| [网页视频 · 合成契约](02-video-media/skills/hyperframes-core/SKILL.md) | 本机技能 |
+| [创意 · 帧规格与风格方向](02-video-media/skills/hyperframes-creative/SKILL.md) | 本机技能 |
+| [网页视频 · 关键帧运镜](02-video-media/skills/hyperframes-keyframes/SKILL.md) | 本机技能 |
+| [网页视频 · 组件库接线](02-video-media/skills/hyperframes-registry/SKILL.md) | 本机技能 |
+| [网页视频 · Studio 时间线](02-video-media/skills/hyperframes-studio/SKILL.md) | 本机技能 |
+| [媒体资产 · 解析生成与台账](02-video-media/skills/media-use/SKILL.md) | 本机技能 |
 
-## 知识库、调研与办公交付（71 项）
+## 知识库、调研与办公交付（72 项）
 
 | 能力 | 来源类型 |
 | --- | --- |
@@ -194,8 +207,9 @@
 | 协作页面 · write page | 云端目录、执行环境目录 |
 | 学习 · 交互式解释 | 云端目录 |
 | 隐性知识 · 提取 | 本机技能 |
+| [文档 · PDF 生成与抽取](04-knowledge-research/skills/pdf/SKILL.md) | 本机技能 |
 
-## 开发、测试与基础设施（26 项）
+## 开发、测试与基础设施（27 项）
 
 | 能力 | 来源类型 |
 | --- | --- |
@@ -225,6 +239,7 @@
 | 网站制作 · 从源文件建站 | 云端目录 |
 | 网站制作 · 改编现有站点 | 云端目录 |
 | 应用预览 · 静态 | 云端目录 |
+| [浏览器 · 终端自动化](05-engineering-infrastructure/skills/playwright/SKILL.md) | 本机技能 |
 
 ## 企业协同与业务自动化（36 项）
 

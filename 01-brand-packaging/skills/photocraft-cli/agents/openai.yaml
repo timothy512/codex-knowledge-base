@@ -1,0 +1,3 @@
+interface:
+  display_name: "PhotoCraft CLI"
+  short_description: "Edit images and layered PSD files in the background"
